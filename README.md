@@ -1,10 +1,8 @@
-# WeLoveMovies Frontend Application
+# WeLoveMovies Application
 
-This is the Front End Application for the WeLoveMovies project. Follow the instructions below.
+The front end was forked from here:
+https://github.com/Thinkful-Ed/starter-movie-front-end
 
-## Installation
+The backend was written and deployed on Render, then connected to the frontend. See the live site below!
 
-1. Fork / clone this repository.
-1. Run `npm install`.
-
-Use `npm start` to run the application. If you deploy this application, create a `.env.production` file similar to the `.env.development` file.
+https://we-love-movies-1dza.onrender.com
